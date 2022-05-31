@@ -14,6 +14,9 @@ window = Tk()
 canvas = Canvas(window, width=WIDTH, height=HEIGHT)
 canvas.pack()
 
+background_photo = PhotoImage(file='earth.png')
+background = canvas.create_image(0, 0, image=background_photo, anchor=NW)
+
 ufo_image1 = PhotoImage(file='ufo.png')
 my_image1 = canvas.create_image(0, 0, image=ufo_image1, anchor=NW)
 
