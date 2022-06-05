@@ -5,6 +5,7 @@ This project is a 2D animation using Tkinter library and Time library
 
 ## Technologies
 * Pytohon version: 3.8
+* PyCharm 2022.1
 * Tkinter library 
 * Time library 
 
