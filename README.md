@@ -1,7 +1,7 @@
 # Multiple_animations_2D
 
 ## General info
-This project is a 2D animation using Tkinter library and Time library
+This project is a 2D animation using Tkinter library and Time library.
 
 ## Technologies
 * Python 3.8
